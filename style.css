@@ -1,0 +1,153 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#heading1 {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+
+button {
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+.class1 {
+    color: bisque;
+}
+#box {
+    color: black;
+    background-color: aquamarine;
+}
+.box2 {
+    color: white;
+      background-color: brown;
+}
+span {
+    color: black;
+    background-color: yellowgreen;
+}
+
+#taskheading {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+
+.heading {
+    color: yellow;
+}
+
+#button2 {
+    color: black;
+    background-color: rgb(130, 238, 135);
+}
+
+#box3 {
+    font-size: 50px;
+    color: white;
+    background-color: tomato;
+    text-align: center;
+    text-decoration: black underline;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    line-height: normal;
+}
+
+#outer {
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+}
+
+#div4 {
+    color: white;
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border: 5px solid white;
+    text-align: center;
+    border-radius: 50%;
+}
+
+#div5 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border: 5px solid white;
+    text-align: center;
+    border-radius: 5%;
+    padding: 25px;
+    margin: 25px;
+}
+
+#div6 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, 255, 34);
+    border-radius: 50%;
+}
+
+
+nav {
+    height: 60px;
+    background-color: #0f0f0f;
+    color: white;
+
+}
+button {
+    background-color: #f08804;
+}
+
+#logo {
+    color: #f08804;
+}
+
+a {
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+    
+}
+
+#div7 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#div8 {
+    background-color: rgba(0, 0, 255, 0.25);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#div9 {
+    background-color: rgba(0, 255, 0, 0.10);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
