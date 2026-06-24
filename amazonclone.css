@@ -418,7 +418,7 @@ ul a {
     }
 
     .nav-search {
-        width: 97vw;
+        width: 92vw;
         position: absolute;
         top: 118px;
     }
@@ -492,8 +492,10 @@ ul a {
     }
 
     .shop-section {
+        display: flex;
         width: min(100%, 1200px);
-        flex-direction: column;
+       
+       
        
 
     }
@@ -504,6 +506,7 @@ ul a {
         width: 70%;
         background-color: white;
         padding: 0.3em;
+        margin-bottom: 1.5rem;
 
     }
 
