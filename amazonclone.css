@@ -456,6 +456,9 @@ ul a {
         font-size: 0.85rem;
     }
 
+    .panel-all {
+        margin-left: 0.7rem;
+    }
     .panel-option {
         font-size: 0.75rem;
 
@@ -491,8 +494,7 @@ ul a {
     .shop-section {
         width: min(100%, 1200px);
         flex-direction: column;
-        padding: 1rem;
-        gap: 1rem;
+       
 
     }
 
